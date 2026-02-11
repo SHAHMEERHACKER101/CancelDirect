@@ -1,0 +1,145 @@
+[
+    {
+        "id": "1",
+        "name": "Netflix",
+        "slug": "netflix",
+        "cancelUrl": "https://www.netflix.com/cancelplan",
+        "phone": "1-844-505-2993",
+        "retentionWarning": "Netflix might offer you a free month or a cheaper plan to stay. If you're sure you want to leave, decline all offers and proceed to the final confirmation page.",
+        "steps": [
+            "Sign in to your Netflix account.",
+            "Select your profile icon in the top right corner.",
+            "Click on 'Account'.",
+            "Under 'Membership & Billing', click the 'Cancel Membership' button.",
+            "Follow the prompts to confirm your cancellation."
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Adobe Creative Cloud",
+        "slug": "adobe-creative-cloud",
+        "cancelUrl": "https://account.adobe.com/plans",
+        "phone": "1-800-833-6687",
+        "retentionWarning": "Adobe often charges high early termination fees for annual plans paid monthly. To avoid this, try 'switching' to a cheaper plan first, then cancel that new plan immediately (within 14 days) for a full refund or no fee.",
+        "steps": [
+            "Sign in to your Adobe account.",
+            "Go to the 'Plans' tab.",
+            "Click 'Manage plan' for the subscription you want to cancel.",
+            "Select 'Cancel your plan'.",
+            "State your reason and complete the cancellation flow."
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Planet Fitness",
+        "slug": "planet-fitness",
+        "cancelUrl": "https://www.planetfitness.com/about-pf/contact-us",
+        "phone": "Check your local club",
+        "retentionWarning": "Planet Fitness usually requires cancellation in person or via certified letter. Phone or online cancellations are rarely accepted. Check your contract for 'buyout' fees if you're still in the commitment period.",
+        "steps": [
+            "Visit your home club in person.",
+            "Alternatively, send a certified letter to your home club address Requesting cancellation.",
+            "Keep a copy of your signed cancellation form or the certified mail receipt.",
+            "Ensure you receive a confirmation email within 7-10 days."
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Starlink",
+        "slug": "starlink",
+        "cancelUrl": "https://www.starlink.com/account/home",
+        "phone": "None (Online support only)",
+        "retentionWarning": "Starlink billing is prepaid. You will continue to have service until the end of your billing cycle. No partial refunds are typically given for mid-month cancellations.",
+        "steps": [
+            "Log into your Starlink account.",
+            "Navigate to the 'Manage' tab.",
+            "Select 'Cancel Service'.",
+            "Provide a reason and confirm your choice."
+        ]
+    },
+    {
+        "id": "5",
+        "name": "Amazon Prime",
+        "slug": "amazon-prime",
+        "cancelUrl": "https://www.amazon.com/gp/primecentral",
+        "phone": "1-888-280-4331",
+        "retentionWarning": "Amazon will try to show you how much money you saved with Prime. They might offer a partial refund for the remaining time if you haven't used Prime benefits recently.",
+        "steps": [
+            "Go to Amazon.com and log in.",
+            "Hover over 'Account & Lists' and click 'Prime Membership'.",
+            "Click 'Update, cancel and more' under 'Manage Membership'.",
+            "Select 'End Membership' and follow the 'Confirm' buttons (there are usually three!)."
+        ]
+    },
+    {
+        "id": "6",
+        "name": "Spotify",
+        "slug": "spotify",
+        "cancelUrl": "https://www.spotify.com/account/plan/",
+        "phone": "None (Online only)",
+        "retentionWarning": "If you signed up through a third party (like Apple or a mobile provider), you must cancel through them, not Spotify.",
+        "steps": [
+            "Log in to your Spotify account page.",
+            "Under 'Your plan', click 'CHANGE PLAN'.",
+            "Scroll down to 'Spotify Free' and click 'CANCEL PREMIUM'.",
+            "Confirm your choice on the following screen."
+        ]
+    },
+    {
+        "id": "7",
+        "name": "HelloFresh",
+        "slug": "hellofresh",
+        "cancelUrl": "https://www.hellofresh.com/account-settings/subscriptions",
+        "phone": "1-646-846-3663",
+        "retentionWarning": "You must cancel by 11:59 PM ET five days before your next scheduled delivery, or you will be charged for that box.",
+        "steps": [
+            "Log in to your HelloFresh account.",
+            "Click on your name in the upper right-hand corner, then click on 'Account Settings'.",
+            "Select the 'Plan Settings' tab.",
+            "Scroll down to the 'Status' section and click 'Cancel Plan'.",
+            "Complete the survey and confirm cancellation."
+        ]
+    },
+    {
+        "id": "8",
+        "name": "Hulu",
+        "slug": "hulu",
+        "cancelUrl": "https://secure.hulu.com/account",
+        "phone": "1-888-265-6650",
+        "retentionWarning": "Hulu may offer a 'Pause' option for up to 12 weeks. If you just want to stop, make sure you ignore the pause offers and go all the way to 'Cancel Subscription'.",
+        "steps": [
+            "Log in to your Hulu account page.",
+            "In the 'Your Account' section, find 'Cancel Your Subscription'.",
+            "Select 'Cancel' and follow the 'Continue to Cancel' prompts.",
+            "Review the final details and click 'Finish Cancellation'."
+        ]
+    },
+    {
+        "id": "9",
+        "name": "LinkedIn Premium",
+        "slug": "linkedin-premium",
+        "cancelUrl": "https://www.linkedin.com/premium/manage",
+        "phone": "None",
+        "retentionWarning": "You will lose access to InMail credits and the 'Who's viewed your profile' full list immediately. Ensure you've used your credits before canceling.",
+        "steps": [
+            "Click the 'Me' icon at the top of your LinkedIn homepage.",
+            "Select 'Premium Subscriptions' or 'Manage Premium'.",
+            "Under 'Manage Subscription', click 'Cancel subscription'.",
+            "Follow the prompts to confirm."
+        ]
+    },
+    {
+        "id": "10",
+        "name": "Peloton",
+        "slug": "peloton",
+        "cancelUrl": "https://www.onepeloton.com/my-membership",
+        "phone": "1-866-679-9129",
+        "retentionWarning": "App-only memberships can usually be canceled online. Equipment-linked memberships (Bike/Tread) might require a different flow in your account settings.",
+        "steps": [
+            "Log in to your Peloton account on the web.",
+            "Go to 'My Membership'.",
+            "Select the subscription you wish to cancel.",
+            "Click 'Cancel Membership' and confirm."
+        ]
+    }
+]
